@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewsFeed</string>
+    <string name="blank_screen">There are currently no Articles found</string>
+    <string name="connection_error">You are not connected to the internet</string>
+    <string name="title">Title</string>
+    <string name="author">Author</string>
+    <string name="date">Date</string>
+</resources>
